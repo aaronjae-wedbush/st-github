@@ -1,3 +1,3 @@
 # st-github
 
-# Hello, World!
+# Practice Github!
