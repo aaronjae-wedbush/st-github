@@ -1,3 +1,3 @@
 # st-github
 
-# Practice Github! YAY!
+# Practice Github! Yay!
